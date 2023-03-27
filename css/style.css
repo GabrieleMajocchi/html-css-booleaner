@@ -23,6 +23,10 @@ img {
     height: auto;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 th{
     background-color: rgb(32, 169, 229);
     color: white;
