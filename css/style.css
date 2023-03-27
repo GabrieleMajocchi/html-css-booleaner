@@ -10,6 +10,10 @@ img {
     object-position: left bottom;
 }
 
+.title, .pic{
+    line-height: 0.2;
+}
+
 .grey{
     color: grey;
 }
