@@ -17,3 +17,8 @@ img {
 .little-info{
     font-size: 12px;
 }
+
+.pic > img{ 
+    max-width: 50%;
+    height: auto;
+}
