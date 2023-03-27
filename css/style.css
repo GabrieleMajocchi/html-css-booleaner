@@ -50,3 +50,29 @@ th{
 tr:nth-child(even) {
     background-color: rgb(177, 229, 242);
 }
+
+.monitor{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.scritta-monitor{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+}
+
+.graph{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.scritta-grafici{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+}
