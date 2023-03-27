@@ -22,3 +22,12 @@ img {
     max-width: 50%;
     height: auto;
 }
+
+th{
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(177, 229, 242);
+}
