@@ -1,0 +1,92 @@
+header {
+    background-color: rgb(76, 155, 246);
+    background-image: url("../img/pattern.png");
+    height: 180px;
+}
+
+main, footer{
+    padding: 0 20%;
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    height: 160px;
+    object-fit: none;
+    object-position: left bottom;
+}
+
+.title, .pic{
+    line-height: 0.2;
+}
+
+.grey{
+    color: grey;
+}
+
+.little-info{
+    font-size: 12px;
+}
+
+.pic > img{ 
+    max-width: 50%;
+    height: auto;
+}
+
+.highlight-yellow{
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width:100%;
+    text-align: left;
+}
+
+td{
+    padding: 20px 0;
+}
+
+th{
+    background-color: rgb(32, 169, 229);
+    color: white;
+    padding: 0px 100px 0px 0;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(177, 229, 242);
+}
+
+.monitor{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.scritta-monitor{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+}
+
+.graph{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.scritta-grafici{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+}
+
+.monitor > img{
+    height: 100%;
+}
+
+.graph > img{
+    height: 100%;
+}
