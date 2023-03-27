@@ -76,3 +76,11 @@ tr:nth-child(even) {
     left: 16px;
     font-weight: bold;
 }
+
+.monitor > img{
+    height: 100%;
+}
+
+.graph > img{
+    height: 100%;
+}
