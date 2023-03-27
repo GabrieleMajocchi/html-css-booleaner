@@ -59,27 +59,29 @@ tr:nth-child(even) {
 
 .monitor{
     position: relative;
-    text-align: left;
+    text-align: center;
     color: white;
 }
 
 .scritta-monitor{
     position: absolute;
-    top: 8px;
-    left: 16px;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-weight: bold;
 }
 
 .graph{
     position: relative;
-    text-align: left;
+    text-align: center;
     color: white;
 }
 
 .scritta-grafici{
     position: absolute;
-    top: 8px;
-    left: 16px;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-weight: bold;
 }
 
