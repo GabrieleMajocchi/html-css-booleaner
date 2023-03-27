@@ -9,3 +9,7 @@ img {
     object-fit: none;
     object-position: left bottom;
 }
+
+.grey{
+    color: grey;
+}
