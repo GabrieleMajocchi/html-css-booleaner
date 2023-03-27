@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(76, 155, 246);
+    background-image: url("../img/pattern.png");
+    height: 180px;
+}
+
+img {
+    height: 160px;
+    object-fit: none;
+    object-position: left bottom;
+}
