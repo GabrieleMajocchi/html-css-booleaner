@@ -13,3 +13,7 @@ img {
 .grey{
     color: grey;
 }
+
+.little-info{
+    font-size: 12px;
+}
